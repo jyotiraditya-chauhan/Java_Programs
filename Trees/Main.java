@@ -1,4 +1,4 @@
-package Tree's;
+package Trees;
 
 public class Main {
     
